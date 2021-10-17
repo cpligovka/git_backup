@@ -15,3 +15,5 @@ It is important things, and perhaps it helps me to find myself
 Branch beature for merge two branches
 -----------------------
 second part for new feature
+New text that excluded from main branch
+
