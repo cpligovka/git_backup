@@ -13,3 +13,5 @@ I should learn new feature for my work
 It is important things, and perhaps it helps me to find myself
 ---------------------------
 Branch beature for merge two branches
+-----------------------
+second part for new feature
