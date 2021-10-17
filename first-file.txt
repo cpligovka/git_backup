@@ -18,3 +18,5 @@ second part for new feature
 New text that excluded from main branch
 
 So it interesting to create new branch and merge them to one 
+
+Stash it is good function
